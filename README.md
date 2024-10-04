@@ -1,6 +1,6 @@
 <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
+<img src="[./img/AboutMe-elaina.png](https://pbs.twimg.com/profile_images/1827620488333627392/SzmzUWjC_400x400.jpg)" width="488" />
 <br/>
 <br/>
 <br/>
