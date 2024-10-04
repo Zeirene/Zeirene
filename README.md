@@ -1,15 +1,13 @@
 <img width="337" src="https://pbs.twimg.com/profile_images/1827620488333627392/SzmzUWjC_400x400.jpg" align=right />
 
-- Name: **Reidho Satria** / **レイドー・サトリア**
+- Name: **Zeph** / **ゼフ**
 
-- Residing in: **South Sumatra, Indonesia**
+- Residing in: **Nagoya, Japan**
 
-- Field of Study: **Computer Science**
+- Field of Study: **Bachelor of Science in Information Technology**
 
-- Proficient in: **GNU/Linux** and **FreeBSD**
+- Proficient in: **Graphic Design** and **PowerPoint**
 
-- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, and **Python**
+- Knowledgeable in: **VB.Net**, **Java**, **PHP**, **HTML**, and **CSS**
 
-- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
-
-- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+- Languages: Tagalog, English, and 日本語
