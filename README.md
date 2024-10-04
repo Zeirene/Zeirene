@@ -1,8 +1,4 @@
 <img width="337" src="https://pbs.twimg.com/profile_images/1827620488333627392/SzmzUWjC_400x400.jpg" align=right />
-<br/>
-<br/>
-<br/>
-<br/>
 
 - Name: **Reidho Satria** / **レイドー・サトリア**
 
