@@ -1,4 +1,4 @@
-<img width="337" src="https://pbs.twimg.com/profile_images/1827620488333627392/SzmzUWjC_400x400.jpg" align=right />
+<img width="250" src="https://pbs.twimg.com/profile_images/1827620488333627392/SzmzUWjC_400x400.jpg" align=right />
 
 - Name: **Zeph** / **ゼフ**
 
